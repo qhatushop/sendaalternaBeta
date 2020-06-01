@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Fredoka+One:400&display=swap);
-
 /* cyrillic-ext */
 @font-face {
   font-family: 'Nunito';
@@ -634,7 +632,7 @@ body {
   font-family: Nunito;
 }
 .display-1 {
-  font-family: 'Fredoka One', display;
+  font-family: 'Nunito', sans-serif;
   font-size: 5rem;
   line-height: 1.1;
 }
@@ -643,11 +641,11 @@ body {
 }
 .display-2 {
   font-family: 'Nunito', sans-serif;
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1.1;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 5.6rem;
 }
 .display-4 {
   font-family: 'Nunito', sans-serif;
@@ -690,9 +688,9 @@ body {
     line-height: calc( 1.1 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.3 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.8rem;
+    font-size: calc( 1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.3 * (1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.8rem;
@@ -1110,8 +1108,8 @@ a:hover {
   color: #fffdfd;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'Nunito', sans-serif;
@@ -1743,6 +1741,17 @@ a {
 .cid-s0CyPtSUkq .mbr-section-subtitle {
   color: #232323;
 }
+.cid-s0DCKLDiDb {
+  padding-top: 75px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s0DCKLDiDb .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s0DCKLDiDb .mbr-section-title {
+  color: #000000;
+}
 .cid-s0CGR8vIRQ {
   padding-top: 60px;
   padding-bottom: 30px;
@@ -1981,7 +1990,7 @@ a {
 }
 .cid-s0CUMCESeC .main-title {
   margin-bottom: 36px;
-  color: #404040;
+  color: #000000;
 }
 .cid-s0CUMCESeC .main-title.display-2 {
   line-height: 1.375;
