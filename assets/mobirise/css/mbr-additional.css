@@ -1290,7 +1290,7 @@ a {
 .cid-s0CHw9XoVY .navbar {
   min-height: 77px;
   transition: all 0.3s;
-  background: #242930;
+  background: #47ff27;
   background: none;
 }
 .cid-s0CHw9XoVY .navbar.opened {
@@ -1440,7 +1440,7 @@ a {
   }
 }
 .cid-s0CHw9XoVY .navbar.navbar-short {
-  background: #242930 !important;
+  background: #47ff27 !important;
   min-height: 60px;
 }
 .cid-s0CHw9XoVY .navbar.navbar-short .navbar-logo img {
@@ -1481,7 +1481,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-s0CHw9XoVY .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #242930;
+  background: #47ff27;
 }
 .cid-s0CHw9XoVY .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2330,7 +2330,7 @@ a {
 .cid-s0Czdu14HK .card-img2 {
   min-width: 45px;
   height: 45px;
-  background: #5580ff;
+  background: #47ff27;
   border-radius: 100%;
   display: flex;
   justify-content: center;
@@ -2342,7 +2342,7 @@ a {
 .cid-s0Czdu14HK .soc-item {
   width: 45px;
   height: 45px;
-  background: #ffffff;
+  background: #47ff27;
   margin-bottom: 1rem;
   border-radius: 100%;
   display: flex;
