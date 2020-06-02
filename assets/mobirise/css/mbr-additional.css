@@ -633,11 +633,11 @@ body {
 }
 .display-1 {
   font-family: 'Nunito', sans-serif;
-  font-size: 5rem;
+  font-size: 4.5rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 8rem;
+  font-size: 7.2rem;
 }
 .display-2 {
   font-family: 'Nunito', sans-serif;
@@ -665,11 +665,11 @@ body {
 }
 .display-7 {
   font-family: 'Nunito', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   line-height: 1.4;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.76rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -678,14 +678,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 4rem;
+    font-size: 3.6rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.5rem;
-    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.15rem;
+    font-size: calc( 2.225rem + (4.5 - 2.225) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (2.225rem + (4.5 - 2.225) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.8rem;
@@ -703,9 +703,9 @@ body {
     line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 0.88rem;
-    font-size: calc( 1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.0350000000000001rem + (1.1 - 1.0350000000000001) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1623,8 +1623,19 @@ a {
 .cid-s0CJ64SFh7 .icon-wrap {
   color: #47ff27;
 }
-.cid-s0CyPtSUkq {
+.cid-s0I5auCyik {
   padding-top: 75px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s0I5auCyik .mbr-section-subtitle {
+  color: #41e125;
+}
+.cid-s0I5auCyik .mbr-section-title {
+  color: #000000;
+}
+.cid-s0CyPtSUkq {
+  padding-top: 15px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -1753,7 +1764,7 @@ a {
   color: #000000;
 }
 .cid-s0CGR8vIRQ {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
