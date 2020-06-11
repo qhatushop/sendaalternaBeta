@@ -1,6 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Oxygen:300,400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap);
 
 
 
@@ -638,7 +636,7 @@ body {
   font-family: Nunito;
 }
 .display-1 {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 5rem;
   line-height: 1.1;
 }
@@ -662,7 +660,7 @@ body {
   font-size: 1.76rem;
 }
 .display-5 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.8rem;
   line-height: 1.1;
 }
@@ -5638,7 +5636,7 @@ a {
 .cid-s1yEpdBRmR {
   padding-top: 300px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
   overflow: hidden;
 }
 .cid-s1yEpdBRmR svg {
@@ -5785,7 +5783,7 @@ a {
 }
 .cid-s1yKCWmRTP .mbr-text,
 .cid-s1yKCWmRTP .mbr-section-btn {
-  color: #4f5b5f;
+  color: #000000;
 }
 .cid-s1zTnPUsl8 {
   padding-top: 60px;
