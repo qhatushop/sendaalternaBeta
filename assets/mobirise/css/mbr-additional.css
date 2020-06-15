@@ -3039,17 +3039,6 @@ a {
 }
 .cid-s1QoPpnke5 img {
   width: 100%;
-  -webkit-mask-box-image: url("../../../assets/images/blob1.svg");
-  mask-image: url("../../../assets/images/blob1.svg");
-  -webkit-mask-box-image-repeat: space;
-  -webkit-mask-position: center center;
-  mask-position: center center;
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
-  height: auto;
-  max-width: 100%;
-  -webkit-mask-size: auto auto;
-  position: relative;
 }
 .cid-s1QoPpnke5 .counter {
   top: 45%;
