@@ -3039,6 +3039,17 @@ a {
 }
 .cid-s1QoPpnke5 img {
   width: 100%;
+  -webkit-mask-box-image: url("../../../assets/images/blob1.svg");
+  mask-image: url("../../../assets/images/blob1.svg");
+  -webkit-mask-box-image-repeat: space;
+  -webkit-mask-position: center center;
+  mask-position: center center;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  height: auto;
+  max-width: 100%;
+  -webkit-mask-size: auto auto;
+  position: relative;
 }
 .cid-s1QoPpnke5 .counter {
   top: 45%;
@@ -3103,7 +3114,7 @@ a {
 }
 .cid-s1yIgryiqc .main-title {
   margin-bottom: 56px;
-  color: #000000;
+  color: #12566a;
 }
 .cid-s1yIgryiqc .badge {
   display: inline-block;
@@ -3268,7 +3279,7 @@ a {
   background-color: #ffffff;
 }
 .cid-s1zTnPUsl8 {
-  padding-top: 105px;
+  padding-top: 60px;
   padding-bottom: 60px;
   background-color: #f3f4f7;
 }
@@ -3278,7 +3289,7 @@ a {
   }
 }
 .cid-s1zTnPUsl8 .mbr-section-subtitle {
-  color: #999999;
+  color: #d75959;
   font-weight: 600;
   margin-bottom: 21px;
 }
@@ -3287,7 +3298,7 @@ a {
 }
 .cid-s1zTnPUsl8 .main-title {
   margin-bottom: 56px;
-  color: #d75959;
+  color: #12566a;
 }
 .cid-s1zTnPUsl8 .badge {
   display: inline-block;
@@ -3307,7 +3318,7 @@ a {
 }
 .cid-s1AhqRn1WT {
   padding-top: 15px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s1AhqRn1WT .row {
@@ -3446,13 +3457,13 @@ a {
     text-align: left;
   }
 }
-.cid-s217o2YbsS {
+.cid-s21litwBQa {
   padding-top: 15px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-s1zTtk1I45 {
-  padding-top: 120px;
+  padding-top: 75px;
   padding-bottom: 60px;
   background-color: #f3f4f7;
 }
@@ -3462,7 +3473,7 @@ a {
   }
 }
 .cid-s1zTtk1I45 .mbr-section-subtitle {
-  color: #999999;
+  color: #d75959;
   font-weight: 600;
   margin-bottom: 21px;
 }
@@ -3471,7 +3482,7 @@ a {
 }
 .cid-s1zTtk1I45 .main-title {
   margin-bottom: 56px;
-  color: #d75959;
+  color: #12566a;
 }
 .cid-s1zTtk1I45 .badge {
   display: inline-block;
@@ -3491,7 +3502,7 @@ a {
 }
 .cid-s1Am8airxj {
   padding-top: 15px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s1Am8airxj .row {
@@ -3630,7 +3641,7 @@ a {
     text-align: left;
   }
 }
-.cid-s217ptonlF {
+.cid-s21llX2t1I {
   padding-top: 15px;
   padding-bottom: 75px;
   background-color: #ffffff;
