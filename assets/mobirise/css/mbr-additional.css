@@ -2385,7 +2385,7 @@ a {
   padding: 1rem;
   position: relative;
   margin-bottom: 1.8rem;
-  color: #ffffff;
+  color: #2cfa09;
 }
 .cid-s0Czdu14HK .quote::after {
   top: 100%;
@@ -3093,6 +3093,10 @@ a {
 .cid-s1QoPpnke5 .mbr-form .dragArea .required,
 .cid-s1QoPpnke5 .mbr-form .dragArea .mbr-section-btn {
   color: #ffffff;
+}
+.cid-s1QoPpnke5 .badge,
+.cid-s1QoPpnke5 .badge_wrap {
+  color: #2cfa09;
 }
 .cid-s1yIgryiqc {
   padding-top: 90px;
@@ -4435,8 +4439,8 @@ a {
   }
 }
 .cid-s2381hT04L {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s2381hT04L .subicon-title {
@@ -4809,7 +4813,7 @@ a {
   padding: 1rem;
   position: relative;
   margin-bottom: 1.8rem;
-  color: #ffffff;
+  color: #2cfa09;
 }
 .cid-s1hv9RMSPY .quote::after {
   top: 100%;
